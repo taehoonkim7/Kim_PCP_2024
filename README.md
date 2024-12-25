@@ -1,7 +1,7 @@
 
 # Kim_PCP_2024
 
-This is the repository for codes used in [Kim_PCP_2024](https://academic.oup.com/pcp). #link to be updated.
+This is the repository for codes used in [Kim_PCP_2024](https://doi.org/10.1093/pcp/pcae133).
 
 ## Phylogenomic analysis
 
